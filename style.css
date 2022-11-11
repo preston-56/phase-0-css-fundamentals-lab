@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  background-color: grey;
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#featured-property{
+  text-align: center;
+  padding: auto;
+  
+}
+
+p {
+  text-align: center;
+  display: inline-block;
+  
+}
+
+
+#details {
+  text-align: center;
+  display: inline-block;
+  background-color: red;
+  position: relative;
+  width: 100%;
+}
+
+div {
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
